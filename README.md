@@ -50,8 +50,7 @@ This is a **defensive cybersecurity learning project**, not malicious activity.
 ---
 
 ## 🛡️ Defensive Takeaways
-- How to detect MITM using ARP inspection  
-- How to use Wireshark filters (`arp.opcode == 2`)  
+- How to detect MITM using ARP inspection    
 - Network segmentation importance  
 - Enabling DHCP snooping / Dynamic ARP Inspection  
 - Role of HTTPS in protection against MITM  
