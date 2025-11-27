@@ -60,7 +60,7 @@ This is a **defensive cybersecurity learning project**, not malicious activity.
 
 ## 📄 Report
 The full PDF report with screenshots and analysis is available here:  
-**MITM_Lab_Report.pdf**
+**MITM Attack.pdf**
 
 ---
 
